@@ -1,0 +1,6 @@
+{
+  "name": "NirmanCost - A to Z Construction Cost Estimator",
+  "description": "Comprehensive A to Z construction costing & BOQ estimator for Bungalows, Row Houses, and Multi-story Buildings with Gujarati & English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
